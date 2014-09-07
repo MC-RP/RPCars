@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="Z:/Dev/Java/Bukkit/bukkit-1.7.10-R0.1-20140808.005150-4.jar"/>
+	<classpathentry kind="lib" path="Z:/Dev/Java/Bukkit/ProtocolLib-3.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
