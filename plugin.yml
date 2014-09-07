@@ -1,4 +1,5 @@
 name: Roleplay
 author: Fozie
+depend: [ProtocolLib]
 main: com.mcrp.rpcars.RoleplayCars
 version: 001
