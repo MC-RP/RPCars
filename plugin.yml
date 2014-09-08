@@ -1,4 +1,4 @@
-name: Roleplay
+name: RPCars
 author: Fozie
 depend: [ProtocolLib]
 main: com.mcrp.rpcars.RoleplayCars
